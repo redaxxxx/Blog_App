@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="blog_app">Blog App</string>
+    <string name="add_text">Add</string>
+    <string name="titleTextView">Title</string>
+    <string name="messageTextView">Message</string>
+    <string name="post_title">Post Title</string>
+    <string name="add_post_text_btn">Add Post</string>
+</resources>
